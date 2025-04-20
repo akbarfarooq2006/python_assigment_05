@@ -1,0 +1,6 @@
+streamlit
+Pillow
+numpy
+cryptography
+hashlib
+
